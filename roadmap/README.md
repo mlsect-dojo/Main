@@ -39,9 +39,8 @@ Python: [Базовый](https://stepik.org/course/67/syllabus) и [продви
 
 torch, математика нейросетей, нейросети: 
 
-[Курс](https://stepik.org/course/50352/syllabus) Samsung AI Center - модули 1-5
-Либо
-Перцептрон и ДЛ: DLS на ютюбе 5-11 лекции+семинары
+ - [Курс](https://stepik.org/course/50352/syllabus) Samsung AI Center - модули 1-5
+ - Либо Перцептрон и ДЛ: DLS на ютюбе 5-11 лекции+семинары
 
 
 
