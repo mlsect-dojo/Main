@@ -17,8 +17,8 @@ Python: [Базовый](https://stepik.org/course/67/syllabus) и [продви
 Математика: 
 
 Ознакомительно:
-Матан: [ФНП](http://mathprofi.ru/funkcija_dvuh_peremennyh_oblast_opredelenija_linii_urovnja.html) [Градиент](http://mathprofi.ru/proizvodnaja_po_napravleniju_i_gradient.html), [Экстремумы ФНП](http://mathprofi.ru/extremumy_funkcij_dvuh_i_treh_peremennyh.html).
-Линал: [Лекция DLS](https://www.youtube.com/watch?v=MJlNjtwzgH4&ab_channel=DeepLearningSchool), [Семинар DLS](https://www.youtube.com/watch?v=8dQacKEwLCQ&ab_channel=DeepLearningSchool)
+ - Матан: [ФНП](http://mathprofi.ru/funkcija_dvuh_peremennyh_oblast_opredelenija_linii_urovnja.html) [Градиент](http://mathprofi.ru/proizvodnaja_po_napravleniju_i_gradient.html), [Экстремумы ФНП](http://mathprofi.ru/extremumy_funkcij_dvuh_i_treh_peremennyh.html).
+ - Линал: [Лекция DLS](https://www.youtube.com/watch?v=MJlNjtwzgH4&ab_channel=DeepLearningSchool), [Семинар DLS](https://www.youtube.com/watch?v=8dQacKEwLCQ&ab_channel=DeepLearningSchool)
 
 Фундаментально:
 Книжки (какие?)
