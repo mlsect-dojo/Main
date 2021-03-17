@@ -12,15 +12,15 @@
 
 ## Python
 
-- [Базовый] курс (https://stepik.org/course/67/syllabus) 
-- [Продвинутый] курс (https://stepik.org/course/512/syllabus)
+- [Базовый](https://stepik.org/course/67/syllabus) курс 
+- [Продвинутый](https://stepik.org/course/512/syllabus) курс
 
 
 ## Pytorch
-- [Кишки torch.Tensor и autograd] http://blog.ezyang.com/2019/05/pytorch-internals/
-- [Дока] (https://pytorch.org/docs/stable/index.html)
-- [Dataset и DataLoader] (https://pytorch.org/tutorials/beginner/basics/data_tutorial.html)
-- [Сохранение весов] (https://pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html)
+- [Кишки torch.Tensor и autograd](http://blog.ezyang.com/2019/05/pytorch-internals/)
+- [Дока](https://pytorch.org/docs/stable/index.html)
+- [Dataset и DataLoader](https://pytorch.org/tutorials/beginner/basics/data_tutorial.html)
+- [Сохранение весов](https://pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html)
 
 ## Математика
 
@@ -49,7 +49,7 @@
 
 ## Development
 
-- [JupyterLab] (http://jupyterlab.io/install)
+- [JupyterLab](http://jupyterlab.io/install)
 - PyCharm
-- [Методология git flow] (https://www.gitkraken.com/learn/git/git-flow)
+- [Методология git flow](https://www.gitkraken.com/learn/git/git-flow)
 
