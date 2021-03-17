@@ -6,65 +6,50 @@
 
 
 
-
-
-Если вы видите недостаток в предложенной ссылке, есть материал, который объясняет лучше - напишите в беседу. 
-
-## Новичок 
-
-Python: [Базовый](https://stepik.org/course/67/syllabus) и [продвинутый](https://stepik.org/course/512/syllabus)
-
-Математика: 
-
-Ознакомительно:
- - Матан: [ФНП](http://mathprofi.ru/funkcija_dvuh_peremennyh_oblast_opredelenija_linii_urovnja.html) [Градиент](http://mathprofi.ru/proizvodnaja_po_napravleniju_i_gradient.html), [Экстремумы ФНП](http://mathprofi.ru/extremumy_funkcij_dvuh_i_treh_peremennyh.html).
- - Линал: [Лекция DLS](https://www.youtube.com/watch?v=MJlNjtwzgH4&ab_channel=DeepLearningSchool), [Семинар DLS](https://www.youtube.com/watch?v=8dQacKEwLCQ&ab_channel=DeepLearningSchool)
-
-Фундаментально:
-Книжки (какие?)
-
-МЛ: 
-[Курс](https://www.youtube.com/channel/UCMtArJYNAfheQ56AtjBj_SA) от Лаборатории машинного обучения ИТМО - лекции 1-3
+Есть полезный и понятный материал - скинь в беседу
 
 
 
-## Начинающий
+## Python
 
-[Регуляризация(см L1, L2, ElastikNet)](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
-
-Теория Графов: Шевелев/Харари
-
-
-## Средний уровень
-
-torch, математика нейросетей, нейросети: 
-
- - [Курс](https://stepik.org/course/50352/syllabus) Samsung AI Center - модули 1-5
- - Либо Перцептрон и ДЛ: DLS на ютюбе 5-11 лекции+семинары
+- [Базовый] курс (https://stepik.org/course/67/syllabus) 
+- [Продвинутый] курс (https://stepik.org/course/512/syllabus)
 
 
+## Pytorch
+- [Кишки torch.Tensor и autograd] http://blog.ezyang.com/2019/05/pytorch-internals/
+- [Дока] (https://pytorch.org/docs/stable/index.html)
+- [Dataset и DataLoader] (https://pytorch.org/tutorials/beginner/basics/data_tutorial.html)
+- [Сохранение весов] (https://pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html)
 
-## Продвинутый уровень
+## Математика
 
-[Теорвер](https://stepik.org/course/3089/syllabus?auth=login), Гмурман(учебник)
++ Теория Графов: Шевелев/Харари
++ Теория множеств: Шевелев, 1 семестр дискретки(вполне хватает, если хорошо учить)
++ [Учебник по теорверу](https://stepik.org/course/3089/syllabus?auth=login), Гмурман
++ Основные понятия мат.статистики: Гмурман: Выборка, Оценки, Доверительные интервалы, Корреляция и лин.регрессия, Бутстрэп
 
-[Кластеризация](https://neerc.ifmo.ru/wiki/index.php?title=%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F), Понижение размерности: PCA, SVD
-
-Теория множеств: Шевелев, 1 семестр дискретки(вполне хватает, если хорошо учить)
-
-Теория графов: Шевелев, 2 семестр дискретки(см т.м)
-
-Линал: ...
-
-Основные понятия мат.статистики: Гмурман: Выборка, Оценки, Доверительные интервалы, Корреляция и лин.регрессия, Бутстрэп
-
-ДЛ:DLS - 1, 2 курсы
-
-
++ Ознакомительно:
+   - Матан: [ФНП](http://mathprofi.ru/funkcija_dvuh_peremennyh_oblast_opredelenija_linii_urovnja.html) [Градиент](http://mathprofi.ru/proizvodnaja_po_napravleniju_i_gradient.html), [Экстремумы ФНП](http://mathprofi.ru/extremumy_funkcij_dvuh_i_treh_peremennyh.html).
+   - Линал: [Лекция DLS](https://www.youtube.com/watch?v=MJlNjtwzgH4&ab_channel=DeepLearningSchool), [Семинар DLS](https://www.youtube.com/watch?v=8dQacKEwLCQ&ab_channel=DeepLearningSchool)
 
 
+## Классический ML
 
-## Просто полезные материалы:
-[Системы контроля версий на примере GIT'a](https://stepik.org/course/3145/?auth=login)
+- [Курс](https://www.youtube.com/channel/UCMtArJYNAfheQ56AtjBj_SA) от Лаборатории машинного обучения ИТМО, лекции 1-6
+- [Регуляризация(см L1, L2, ElastikNet)](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
+- [Кластеризация](https://neerc.ifmo.ru/wiki/index.php?title=%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F), Понижение размерности: PCA, SVD
 
-Pandas
+
+## Нейронные сети и deep learning
+
+- [Курс](https://stepik.org/course/50352/syllabus) Samsung AI Center
+- Deep Learning School
+
+
+## Development
+
+- [JupyterLab] (http://jupyterlab.io/install)
+- PyCharm
+- [Методология git flow] (https://www.gitkraken.com/learn/git/git-flow)
+
