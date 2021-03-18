@@ -14,6 +14,7 @@
 
 - [Базовый](https://stepik.org/course/67/syllabus) курс 
 - [Продвинутый](https://stepik.org/course/512/syllabus) курс
+- [Базовые штуки в pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
 
 
 ## Pytorch
@@ -53,3 +54,8 @@
 - PyCharm
 - [Методология git flow](https://www.gitkraken.com/learn/git/git-flow)
 
+
+## Выжимки информации, собеседования
+
+- [Data science cheetsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf)
+- [Краткая теория на английском про классический ML](https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md)
