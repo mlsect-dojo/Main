@@ -8,7 +8,7 @@
 | [Тинькофф Банк](https://fintech.tinkoff.ru/study/start/ml_engineer/) | 12.03 | 15.04 | Контенст по матеше и проге | хз | Рекомендации, чат-боты, NLP, лучший банк, лучший ментор |
 | [Яндекс](https://yandex.ru/yaintern/int_03) | сейчас | середина апреля? | Алгоритмические и ML собесы | Нет | ML/DL 
 | [JetBrains](https://internship.jetbrains.com/) | 29.03 | 11.04 | Зависит от проекта | Нет | Умные плагины, либо исследования |
-| [NCCR ITMO](https://summerofcode.withgoogle.com/) | сейчас | 21.06 | мотивационное письмо | Нет | ФинТех лаборатория. ML, CV |
+| [NCCR ITMO](https://actcognitive.org/posts/91/letnyaya-stazhirovka-v-natsionalnom-tsentre-kognitivnykh-razrabotok-itmo/) | сейчас | 21.06 | мотивационное письмо | Нет | ФинТех лаборатория. ML, CV |
 | [МТС](https://job.mts.ru/youth#vacancies) | хз | май? | Интервью | Нет | ML, Audio DL, Chat-bots |
 | [Huawei](https://career.huawei.ru/rri/) | хз | хз | хз | нет | ML/DL |
 | [Альфа Банк](https://alfabanklive.ru/ichoosealfa) | сейчас | 30.04 | хз | Нет | хз |
