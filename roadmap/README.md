@@ -24,7 +24,7 @@
 - [Сохранение весов](https://pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html)
 
 ## Математика
-
++ [Deeplearning Book](https://www.deeplearningbook.org/front_matter.pdf) главы 2-5, базовый линал для ML, методы оптимизации и категории ML алгоритмов
 + Теория Графов: Шевелев/Харари
 + Теория множеств: Шевелев, 1 семестр дискретки(вполне хватает, если хорошо учить)
 + [Учебник по теорверу](https://stepik.org/course/3089/syllabus?auth=login), Гмурман
@@ -37,14 +37,17 @@
 
 ## Классический ML
 
+- Книжка [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 3-8 главы, фулл [здесь](https://t.me/machinelearningtoday)
 - [Курс](https://www.youtube.com/channel/UCMtArJYNAfheQ56AtjBj_SA) от Лаборатории машинного обучения ИТМО, лекции 1-6
-- [Регуляризация(см L1, L2, ElastikNet)](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
+- [Регуляризация(см L1, L2, ElastikNet)](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F), [ещё 7 глава тут])https://www.deeplearningbook.org/front_matter.pdf)
 - [Кластеризация](https://neerc.ifmo.ru/wiki/index.php?title=%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F), Понижение размерности: PCA, SVD
 
 
 ## Нейронные сети и deep learning
-
+- [Deeplearning Book](https://www.deeplearningbook.org/front_matter.pdf) 8 глава подробнее про методы оптимизации
+- [Deeplearning Book](https://www.deeplearningbook.org/front_matter.pdf) 6, 9-11 главы - DL архитектуры для работы с разными видами данных
 - [Курс](https://stepik.org/course/50352/syllabus) Samsung AI Center
+- [Deep Learning School NLP course](https://www.youtube.com/watch?v=d0oV1MZ_KdE&list=PL0Ks75aof3Ti1GDgeePUkCJWn02c0VDA5)
 - Deep Learning School
 
 
