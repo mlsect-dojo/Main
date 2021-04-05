@@ -41,7 +41,8 @@
 - [Курс](https://www.youtube.com/channel/UCMtArJYNAfheQ56AtjBj_SA) от Лаборатории машинного обучения ИТМО, лекции 1-6
 - [Регуляризация(см L1, L2, ElastikNet)](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F), [ещё 7 глава тут](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-bookmarked-pdf/deeplearningbook.pdf)
 - [Кластеризация](https://neerc.ifmo.ru/wiki/index.php?title=%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F), Понижение размерности: PCA, SVD
-
+- [Компьютерное зрение (нет, не нейросети)](youtube.com/playlist?list=PLcsjsqLLSfND4bGJH6vZ9Xs2rhPbmH946)
+- 
 
 ## Нейронные сети и deep learning
 - [Deeplearning Book](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-bookmarked-pdf/deeplearningbook.pdf) 8 глава подробнее про методы оптимизации
