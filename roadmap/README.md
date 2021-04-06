@@ -63,3 +63,10 @@
 
 - [Data science cheetsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf)
 - [Краткая теория на английском про классический ML](https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md)
+
+
+## Резюме
+
+- [Тут](https://www.overleaf.com) можно натехать что-то красивое
+- Минималистичный [пример](https://github.com/zachscrivena/simple-resume-cv)
+- Чуть менее минималистичный [пример](https://github.com/dcetin/Simple-CV)
