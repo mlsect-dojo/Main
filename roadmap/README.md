@@ -18,7 +18,8 @@
    - [Базовые штуки в pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
 
 Для целеустремлённых:
-   - [Книга про ООП на Python](https://www.amazon.com/Python-Object-oriented-Programming-Building-maintainable/dp/1784398780) по сути практический гайд по тому, как писать не отвратительный код [pdf](https://vk.com/proglib/books?w=wall-54530371_323883)
+   - [Python Object oriented Programming](https://www.amazon.com/Python-Object-oriented-Programming-Building-maintainable/dp/1784398780) по сути практический гайд по тому, как писать не отвратительный код [pdf](https://vk.com/proglib/books?w=wall-54530371_323883)
+   - [High performance Python](https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1492055026) про оптимизации кода, параллельность и экономию железа. [фулл](https://vk.com/doc22120388_437615949?hash=a7d8affb64ea7f0e2a&dl=7b70932342fb19bf5d)
 
 
 ## Pytorch
