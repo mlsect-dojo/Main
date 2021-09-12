@@ -16,6 +16,7 @@
    - [Базовый](https://stepik.org/course/67/syllabus) курс 
    - [Продвинутый](https://stepik.org/course/512/syllabus) курс
    - [Базовые штуки в pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
+   - [Паттерны проектирования](https://refactoring.guru/ru/design-patterns) для маленьких
 
 Для целеустремлённых:
    - [Python Object oriented Programming](https://www.amazon.com/Python-Object-oriented-Programming-Building-maintainable/dp/1784398780) по сути практический гайд по тому, как писать не отвратительный код [pdf](https://vk.com/proglib/books?w=wall-54530371_323883)
