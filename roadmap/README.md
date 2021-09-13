@@ -36,7 +36,7 @@
    - Матан: [ФНП](http://mathprofi.ru/funkcija_dvuh_peremennyh_oblast_opredelenija_linii_urovnja.html) [Градиент](http://mathprofi.ru/proizvodnaja_po_napravleniju_i_gradient.html), [Экстремумы ФНП](http://mathprofi.ru/extremumy_funkcij_dvuh_i_treh_peremennyh.html).
    - Линал: [Лекция DLS](https://www.youtube.com/watch?v=MJlNjtwzgH4&ab_channel=DeepLearningSchool), [Семинар DLS](https://www.youtube.com/watch?v=8dQacKEwLCQ&ab_channel=DeepLearningSchool)
    - [Deeplearning Book](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-bookmarked-pdf/deeplearningbook.pdf) главы 2-5, базовый линал для ML, методы оптимизации и категории ML алгоритмов
-   - [Курс по теорверу](https://stepik.org/course/3089)
+   - Курс по теорверу [часть 1](https://stepik.org/course/3089), [часть 2](https://stepik.org/course/57281/promo?search=726745642)
 
 Фундаментально:
    - Теория Графов: Шевелев/Харари
