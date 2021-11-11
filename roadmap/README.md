@@ -56,6 +56,7 @@
    - [Книга по компьютерному зрению (опять не нейросети)](https://www.combook.ru/product/11307454/?gclid=Cj0KCQjw_8mHBhClARIsABfFgpihRKPhW6dQoX3c1UAdT29mKNfpXxCvE64K3lWSKwzOM_i6NJLLsfIaAmMvEALw_wcB)
 
 Фундаментально:
+   - [Книжка Яндекс ШАДа](https://ml-handbook.ru/) по основам ML алгоритмов 
    - Книжка [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 3-8 главы, фулл [здесь](https://t.me/machinelearningtoday), rus вариант есть в чате
 
 
